@@ -1,7 +1,7 @@
 # Hi 
  
- <a href="https://www.linkedin.com/in/krzysztof-%C5%82%C4%85giewczyk-87a926236/">
-         <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-discuss-plum?style=for-the-badge&logo=comment-discussion&logocolor=black"/></a> 
+<a href="https://www.linkedin.com/in/krzysztof-%C5%82%C4%85giewczyk-87a926236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:christopher.lagiewczyk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
